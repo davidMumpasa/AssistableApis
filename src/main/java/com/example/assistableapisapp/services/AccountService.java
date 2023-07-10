@@ -1,4 +1,4 @@
-package com.example.demo1.bussinessLogic;
+package com.example.assistableapisapp.services;
 
 
 import lombok.Getter;
